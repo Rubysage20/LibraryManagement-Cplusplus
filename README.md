@@ -48,21 +48,30 @@ displayAllBooks: Displays details of all books.
 
 registerMember: Registers a new member with name and contact information.
 
+
 displayAllMembers: Displays details of all registered members.
+
 
 borrowBook: Allows a member to borrow a book by index and sets a due date.
 
+
 displayAllTransactions: Displays details of all transactions (book borrowings).
+
 
 Book:This class represents a book with attributes such as title, author, and ISBN.
 
+
 displayBookDetails: Displays the details of the book.
+
 
 Member:This class represents a library member with attributes such as name and contact information.
 
+
 displayMemberDetails: Displays the details of the member.
 
+
 Transaction: This class represents a borrowing transaction between a book and a member, including a due date.
+
 
 displayTransactionDetails: Displays the details of the transaction
 
