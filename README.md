@@ -7,6 +7,7 @@ Add new books
 Display all books
 Search books by title, author, or ISBN
 Update book details
+
 Member Management:
 
 Register new library members
@@ -18,8 +19,8 @@ Borrow books
 Return books
 Display all transactions
 Track overdue books
-Reports:
 
+Reports:
 Generate reports for all books, members, and transactions
 Classes
 The system consists of several key classes:
