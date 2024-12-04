@@ -29,32 +29,55 @@ LibraryManagement
 This class manages the library's books, members, and transactions.
 
 addBook: Adds a new book to the library.
+
 updateBookInfo: Updates the information of a book (e.g., ISBN, author).
+
 displayAvailableBooks: Displays all available books in the library.
+
 registerMember: Registers a new library member.
+
 updateMemberInfo: Updates member information (e.g., contact info).
+
 displayRegisteredMembers: Displays a list of all registered members.
+
 borrowBook: Allows a member to borrow a book and sets a due date.
+
 returnBook: Marks a book as returned.
+
 displayBorrowedBooks: Displays all borrowed books.
+
 displayOverdueBooks: Displays a list of overdue books.
+
 searchBooksByTitle/Author/ISBN: Allows searching for books based on their title, author, or ISBN.
+
 generateReport: Generates a report for all books, members, and transactions.
-Library
-This class handles the actual operations, such as adding books, registering members, and processing transactions.
+
+Library:This class handles the actual operations, such as adding books, registering members, and processing transactions.
 
 addBook: Adds a book by title, author, and ISBN.
+
 displayAllBooks: Displays details of all books.
+
 registerMember: Registers a new member with name and contact information.
+
 displayAllMembers: Displays details of all registered members.
+
 borrowBook: Allows a member to borrow a book by index and sets a due date.
+
 displayAllTransactions: Displays details of all transactions (book borrowings).
+
 Book:This class represents a book with attributes such as title, author, and ISBN.
+
 displayBookDetails: Displays the details of the book.
+
 Member: This class represents a library member with attributes such as name and contact information.
+
 displayMemberDetails: Displays the details of the member.
+
 Transaction: This class represents a borrowing transaction between a book and a member, including a due date.
+
 displayTransactionDetails: Displays the details of the transaction.
+
 Usage
 Adding Books: You can add books to the library with a title, author, and ISBN.
 Registering Members: Members can be registered with their name and contact details.
