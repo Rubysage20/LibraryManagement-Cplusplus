@@ -14,7 +14,7 @@ Welcome to the Library Management System project! This console-based application
 
 - **Programming Language**: C++
 - **Concepts**: Object-Oriented Programming (Classes, Objects), File Handling
-- **IDE**: [Specify your IDE, e.g., Visual Studio, Code::Blocks]
+- **IDE**: Visual Studio
 
 ## 🎓 Educational Background
 
